@@ -48,6 +48,7 @@ PuzzleAvatar reconstructs a textured 3D clothed human from **unconstrained photo
 
 ## News :triangular_flag_on_post:
 
+- 📢 [2025/09/30] [UP2You](https://zcai0612.github.io/UP2You/) comes out, Faster PuzzleAvatar (1.5 min vs. 4 hrs)
 - [2024/11/09] [PuzzleIOI](https://github.com/YuliangXiu/PuzzleAvatar?tab=readme-ov-file#dataset-and-benchmark) dataset and benchmark code get released.
 - [2024/09/10] [PuzzleAvatar](https://github.com/YuliangXiu/PuzzleAvatar) code gets released.
 - [2024/05/23] [PuzzleAvatar](https://arxiv.org/abs/2405.14869) paper gets released.
